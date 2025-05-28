@@ -1,0 +1,34 @@
+{
+  "pins": {
+    "nixpkgs": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nixos",
+        "repo": "nixpkgs"
+      },
+      "branch": "nixpkgs-unstable",
+      "submodules": false,
+      "revision": "5633bcff0c6162b9e4b5f1264264611e950c8ec7",
+      "url": "https://github.com/nixos/nixpkgs/archive/5633bcff0c6162b9e4b5f1264264611e950c8ec7.tar.gz",
+      "hash": "0p3ry8x72cl572fs1c47h9y3s045p4aq71wpblzdi4dfqx3z2i7m"
+    },
+    "openriichi": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "FluffyStuff",
+        "repo": "OpenRiichi"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
+      "submodules": true,
+      "version": "v0.2.1.1",
+      "revision": "ca96293e30c45c9c438f2c63c5be9f5103d47dcd",
+      "url": null,
+      "hash": "1x6m4mli92chns5dky9aq9w4r4pnycvlpa2q0giydapm5q9fkslf"
+    }
+  },
+  "version": 5
+}
