@@ -7,6 +7,7 @@ Tested on `x86_64-linux`.
 ```bash
 # ⬇️ clone
 git clone https://github.com/rx342/nix-riichi.git
+cd nix-riichi
 
 # ⚒️ build
 nix-build
