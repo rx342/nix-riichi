@@ -15,3 +15,7 @@ nix-build
 # 🀄 play
 ./result/bin/OpenRiichi
 ```
+
+## Credits
+
+- [FluffyStuff/OpenRiichi](https://github.com/FluffyStuff/OpenRiichi)
